@@ -1,0 +1,45 @@
+{
+	"setting_defaults": {
+		"custom_theme": [
+			{
+				"name": "Gruvbox Dark Hard",
+				"is_dark": true,
+				"colors": {
+					"primary-color": "#fe8019",
+					"accent-color": "#b8bb26",
+					"warning-color": "#fb4934",
+					"sidebar-color": "#1d2021",
+					"roomlist-background-color": "#1d2021",
+					"roomlist-text-color": "#a89984",
+					"roomlist-text-secondary-color": "#bdae93",
+					"roomlist-highlights-color": "#50494530",
+					"roomlist-separator-color": "#665c5490",
+					"timeline-background-color": "#282828",
+					"timeline-text-color": "#ebdbb2",
+					"timeline-text-secondary-color": "#a89984",
+					"timeline-highlights-color": "#50494530",
+					"reaction-row-button-selected-bg-color": "#b8bb26",
+					"menu-selected-color": "#504945",
+					"icon-button-color": "#a89984",
+					"accent": "#b8bb26",
+					"alert": "#fb4934",
+					"username-colors": [
+						"#fb4934",
+						"#b8bb26",
+						"#fabd2f",
+						"#83a598",
+						"#d3869b",
+						"#8ec07c",
+						"#fe8019",
+						"#928374"
+					],
+					"avatar-background-colors": [
+						"#83a598",
+						"#d3869b",
+						"#8ec07c"
+					]
+				}
+			}
+		]
+	}
+}
