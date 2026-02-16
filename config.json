@@ -1,6 +1,3 @@
-{
-	"setting_defaults": {
-		"custom_theme": [
 			{
 				"name": "Gruvbox Dark Hard",
 				"is_dark": true,
@@ -42,4 +39,3 @@
 			}
 		]
 	}
-}
